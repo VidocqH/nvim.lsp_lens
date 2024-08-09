@@ -86,7 +86,7 @@ require'lsp-lens'.setup({
 
 ```lua
 {
-  LspLens = { link = "Comment" },
+  LspLens = { link = "LspCodeLens" },
 }
 ```
 
